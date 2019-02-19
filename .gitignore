@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+mysql_conn.py
